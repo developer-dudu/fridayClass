@@ -1,0 +1,22 @@
+SetDemo.setInteger2();
+
+SetDemo2.setToUpperCase();
+
+/*
+set<integer> s33 = new set<integer>(); //empty
+system.debug(s33.isEmpty());//will this work?
+
+s33.add(5);//will this work? NO.
+
+
+list<string> l33;
+l33.add('hello');
+
+string str;//null
+str.toUpperCase();//we can't use any method or any operation on NULL
+
+integer i;
+system.debug(i+5);
+
+
+*/

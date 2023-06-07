@@ -1,0 +1,13 @@
+  - annotation? @isTest
+    - we must do @isTest in test class.
+    - is @isTest compulsary for test method?
+    - testmethod must be static. It can be public or private. It must return VOID. And doesn't take any parameter.
+    - can we have a method inside test class without @isTest?
+        - yes, we can have a non test method inside test class.
+    - if we do any DML from test method can we insert/update org records?
+        - NO.
+    - soql inside testmethod can we fetch records from org?
+        - by befault we cannot get records from the org.
+
+- Each TestMethod has its own test world.
+- Each TestMethod gets FULL Governor Limits

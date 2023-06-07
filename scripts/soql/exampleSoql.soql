@@ -1,0 +1,3 @@
+SELECT Id, IsDeleted, MasterRecordId, LastName, Salutation, OtherState, MailingState, MailingCountry, MailingLongitude, Phone FROM Contact
+
+select name, id, phone from account where name='test1'
